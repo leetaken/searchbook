@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+    width: 100wh;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+    font-family: 'poppins';
+}
+.mainHeader {
+    width: 100wh;
+    height: 20vh;
+    
+}
+.img {
+    width:230px;
+    left:30%;
+    top:50%;
+
+}
+.img-book {
+    width:120px;
+}
